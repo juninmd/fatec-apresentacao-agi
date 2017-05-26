@@ -1,0 +1,26 @@
+{
+  "name": "apresentacaoneto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juninmd/ApresentacaoNeto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juninmd/ApresentacaoNeto/issues"
+  },
+  "homepage": "https://github.com/juninmd/ApresentacaoNeto#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
