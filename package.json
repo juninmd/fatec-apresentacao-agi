@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "lite-server -c bs-config.js"
+    "dev": "lite-server -c 'bs-config'"
   },
   "repository": {
     "type": "git",
@@ -18,9 +18,10 @@
   },
   "homepage": "https://github.com/juninmd/ApresentacaoNeto#readme",
   "dependencies": {
-    "bootstrap": "^3.3.7"
+    "bootstrap": "^3.3.7",
+    "consolidate": "^0.14.5",
+    "express": "^4.15.3",
+    "mustache": "^2.3.0"
   },
-  "devDependencies": {
-    "lite-server": "^2.3.0"
-  }
+  "devDependencies": {}
 }
